@@ -50,5 +50,6 @@
 !.vscode/extensions.json
 *.code-workspace
 *.cph
+*.vscode
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode,c++
